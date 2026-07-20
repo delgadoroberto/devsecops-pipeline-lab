@@ -77,6 +77,20 @@ Customizing threshold configurations (`exit-code 1` vs `exit-code 0`) to seamles
 
 ---
 
+## Author
+
+**Roberto Delgado**
+
+*Cybersecurity Engineer*
+
+Cybersecurity professional focused on cloud and infrastructure security, DevSecOps, vulnerability management, and security automation.
+
+This repository is part of my personal cybersecurity portfolio, where I build hands-on projects that demonstrate secure engineering practices across cloud security, Infrastructure as Code, container security, CI/CD security, and security automation.
+
+> **Practical cybersecurity. Secure automation. Continuous learning.**
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
